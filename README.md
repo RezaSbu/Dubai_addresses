@@ -1,2 +1,1 @@
-# Dubai_addresses
-100 Dubai_addresses Stats
+100 areas of Dubai are being studied in many ways and are ready to do data analysis work.
